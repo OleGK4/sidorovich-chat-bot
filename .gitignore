@@ -1,2 +1,3 @@
-/vars
+/utils/auth.py
 /.idea
+sidor.db
